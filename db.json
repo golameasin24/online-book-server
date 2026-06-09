@@ -125,6 +125,207 @@
       "category": "Science",
       "available_quantity": 10,
       "image_url": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&q=80&w=600"
+    },
+
+    {
+      "id": "b13",
+      "category_id": "01",
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafón",
+      "description": "An antiquarian book dealer's son is taken to the secret Cemetery of Forgotten Books in Barcelona, where he adopts a mysterious novel that pulls him into a dark, multi-generational web of romance, murder, and forbidden secrets.",
+      "category": "Story",
+      "available_quantity": 4,
+      "image_url": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b14",
+      "category_id": "02",
+      "title": "You Don't Know JS Yet",
+      "author": "Kyle Simpson",
+      "description": "A deeply analytical and critical exploration into the inner engineering of JavaScript. It challenges developers to move beyond superficial syntax and completely master scopes, closures, objects, and the precise mechanics of types.",
+      "category": "Tech",
+      "available_quantity": 11,
+      "image_url": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b15",
+      "category_id": "03",
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil deGrasse Tyson",
+      "description": "A brilliant, witty, and perfectly summarized introduction to the cosmos. It breaks down massive universal questions about quantum mechanics, black holes, the Big Bang, and the fundamental laws of space into digestible insights.",
+      "category": "Science",
+      "available_quantity": 7,
+      "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b16",
+      "category_id": "01",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "description": "Set during the harrowing times of World War II Germany, this beautifully tragic story is uniquely narrated by Death itself, tracking a young girl named Liesel who finds solace and survival by stealing books and sharing them with others.",
+      "category": "Story",
+      "available_quantity": 6,
+      "image_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b17",
+      "category_id": "02",
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "description": "The definitive, industry-standard handbook on code quality and structure. It explains the exact systematic processes for improving the design of existing codebases without altering their external behavior or system functionality.",
+      "category": "Tech",
+      "available_quantity": 3,
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b18",
+      "category_id": "03",
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "description": "A magnificent, sweeping, and deeply personal biography of the human genome. It combines rigid history, scientific breakthroughs, and philosophical ethics to tell the story of the fundamental unit of heredity and life.",
+      "category": "Science",
+      "available_quantity": 5,
+      "image_url": "https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b19",
+      "category_id": "01",
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "description": "A stunning, atmospheric mystery that follows a lonely girl raising herself in the wild marshes of North Carolina. When a handsome local young man is found dead, the isolated marsh girl becomes the town's prime suspect.",
+      "category": "Story",
+      "available_quantity": 8,
+      "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b20",
+      "category_id": "02",
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "description": "An absolute classic in project management and software engineering. It delivers timeless insights into human behaviors, software development estimations, and why adding manpower to a late software project makes it later.",
+      "category": "Tech",
+      "available_quantity": 4,
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b21",
+      "category_id": "03",
+      "title": "Reality Is Not What It Seems",
+      "author": "Carlo Rovelli",
+      "description": "A deeply poetic and mind-expanding journey into the heart of quantum gravity. It tracks the evolution of physics from ancient philosophers to modern string theories, showing a universe made of relations rather than objects.",
+      "category": "Science",
+      "available_quantity": 9,
+      "image_url": "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b22",
+      "category_id": "01",
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A chillingly prophetic, legendary dystopian narrative that explores totalitarian surveillance, absolute party power, and the systematically violent erasure of individual freedom, truth, and psychological independence.",
+      "category": "Story",
+      "available_quantity": 14,
+      "image_url": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b23",
+      "category_id": "02",
+      "title": "Grokking Algorithms",
+      "author": "Aditya Bhargava",
+      "description": "An incredibly unique, visually engaging, and fully illustrated guide that simplifies complex programming concepts. It uses fully logical animations and real-world scenarios to explain search, sorting, and graph structures.",
+      "category": "Tech",
+      "available_quantity": 6,
+      "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b24",
+      "category_id": "03",
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "description": "The monumental volume that effectively launched the global environmental movement. It brilliantly exposes the devastating, long-term ecological damage caused by indiscriminate chemical pesticide contamination in our ecosystem.",
+      "category": "Science",
+      "available_quantity": 5,
+      "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b25",
+      "category_id": "01",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "description": "A highly emotional, unforgettable, and powerful story of friendship, betrayal, and ultimate redemption set against the tragic backdrop of Afghanistan's collapse from a peaceful monarchy to a war-torn regime.",
+      "category": "Story",
+      "available_quantity": 7,
+      "image_url": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b26",
+      "category_id": "02",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "description": "Universally known as the definitive bible of algorithmic computer science. It provides a highly rigorous, exceptionally comprehensive, and detailed blueprint of data structures, algorithms, and technical mathematical analyses.",
+      "category": "Tech",
+      "available_quantity": 3,
+      "image_url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b27",
+      "category_id": "03",
+      "title": "Superintelligence",
+      "author": "Nick Bostrom",
+      "description": "A profoundly analytical, deeply researched, and gripping assessment of the systemic risks associated with advanced artificial general intelligence, exploring what happens when machine systems surpass human capabilities.",
+      "category": "Science",
+      "available_quantity": 8,
+      "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b28",
+      "category_id": "01",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "description": "An incredibly imaginative, deeply spiritual, and miraculous adventure tale of a young boy shipwrecked in the middle of the Pacific Ocean, stranded on a lifeboat with a massive Royal Bengal tiger.",
+      "category": "Story",
+      "available_quantity": 10,
+      "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b29",
+      "category_id": "02",
+      "title": "Head First Design Patterns",
+      "author": "Eric Freeman & Elisabeth Robson",
+      "description": "A highly performance-optimized, visually rich learning strategy designed to teach functional software design patterns. It helps developers write highly reusable, flexible, and fully decoupled object-oriented applications.",
+      "category": "Tech",
+      "available_quantity": 5,
+      "image_url": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b30",
+      "category_id": "03",
+      "title": "The Elegant Universe",
+      "author": "Brian Greene",
+      "description": "A masterfully clear, deeply engaging, and illuminating introduction to superstring theory and quantum mechanics, peeling back the hidden dimensional structures that compose the ultimate foundation of cosmic space.",
+      "category": "Science",
+      "available_quantity": 4,
+      "image_url": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b31",
+      "category_id": "01",
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "description": "A deeply atmospheric, dark, and beautifully nostalgic modern fantasy tale about memory, childhood terrors, and ancient, forgotten magic hidden at the edge of a quiet English countryside farm.",
+      "category": "Story",
+      "available_quantity": 6,
+      "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "b32",
+      "category_id": "02",
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "description": "One of the most comprehensive practical guides to software construction ever published. It synthesizes the most effective modern techniques and industry principles into clear, pragmatic engineering guidance.",
+      "category": "Tech",
+      "available_quantity": 2,
+      "image_url": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&q=80&w=600"
     }
   ]
 }
