@@ -183,6 +183,175 @@
         "description": "A deeply atmospheric, dark, and beautifully nostalgic modern fantasy tale about memory, childhood terrors, and ancient, forgotten magic hidden at the edge of a quiet English countryside farm.",
         "available_quantity": 6,
         "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b2",
+        "title": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "description": "This is a highly comprehensive, rigorous, and completely updated introduction to the art and science of modern computer programming with a strong practical focus.\nIt focuses heavily and deeply on the core JavaScript language itself, guiding readers meticulously through the intricate wonders and structures of the modern digital world.\nYou will take an intensely deep dive into essential components like variables, complex control flow structures, data structures, and advanced functional programming concepts.\nIt thoroughly covers critical browser architectures, DOM manipulation, asynchronous programming models, along with highly advanced object-oriented programming methodologies and practices.\nAn absolute masterpiece designed perfectly for ambitious developers looking to completely master the skills required for writing clean, efficient, and professional scale software.",
+        "available_quantity": 8,
+        "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b5",
+        "title": "Pragmatic Programmer",
+        "author": "Andrew Hunt & David Thomas",
+        "description": "Without a doubt, this is one of the most significant, influential, and timeless books ever written in the entire history of modern software engineering education.\nIt provides direct, highly practical, and field-tested tips alongside exceptionally effective development practices designed to solve complex, real-world coding challenges efficiently.\nAspiring and senior software developers alike can learn industry-standard professional methodologies to rapidly accelerate their engineering skills and architectural thinking.\nIt systematically helps you construct excellent development habits, perfect your technical craft, and successfully transform into a top-tier, highly valued professional engineer.\nAn absolutely essential, highly celebrated, and universally recommended masterpiece for any serious programmer looking to build a highly successful, long-term industry career.",
+        "available_quantity": 4,
+        "image_url": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b8",
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "description": "An absolutely indispensable, authoritative, and comprehensive guide engineered specifically for modern software developers, system architects, and technical engineering leads.\nIt masterfully and systematically helps you navigate the immense, overwhelming complexities associated with managing large-scale, distributed data processing systems globally.\nYou will thoroughly and deeply explore efficient data storage architectures, indexing algorithms, replication models, partitioning strategies, and stream processing frameworks.\nIt explicitly teaches the fundamental, underlying principles required to build highly scalable, resilient, fault-tolerant, and exceptionally secure enterprise system architectures.\nThe perfect, definitive resource for engineering teams tasked with building massive, highly performance-optimized, data-intensive web applications in the modern industry.",
+        "available_quantity": 2,
+        "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b11",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "description": "A legendary, universally celebrated, and absolutely essential handbook focusing entirely on the values, practices, and ethics of agile software craftsmanship.\nIt meticulously teaches you how to write vastly better, cleaner, highly optimized, and exceptionally professional source code in your everyday development workflow.\nYour codebases will instantly transform to become remarkably readable, easily maintainable, thoroughly testable, and highly efficient for development teams to work on.\nIt provides direct, comprehensive, real-world examples of code refactoring, identifying code smells, and implementing perfect object-oriented programming design principles.\nAn absolute cornerstone, must-read guide for any professional software developer serious about engineering clean, robust, and enterprise-grade software systems.",
+        "available_quantity": 6,
+        "image_url": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b14",
+        "title": "You Don't Know JS Yet",
+        "author": "Kyle Simpson",
+        "description": "A deeply analytical and critical exploration into the inner engineering of JavaScript. It challenges developers to move beyond superficial syntax and completely master scopes, closures, objects, and the precise mechanics of types.",
+        "available_quantity": 11,
+        "image_url": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b17",
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "description": "The definitive, industry-standard handbook on code quality and structure. It explains the exact systematic processes for improving the design of existing codebases without altering their external behavior or system functionality.",
+        "available_quantity": 3,
+        "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b20",
+        "title": "The Mythical Man-Month",
+        "author": "Frederick P. Brooks Jr.",
+        "description": "An absolute classic in project management and software engineering. It delivers timeless insights into human behaviors, software development estimations, and why adding manpower to a late software project makes it later.",
+        "available_quantity": 4,
+        "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b23",
+        "title": "Grokking Algorithms",
+        "author": "Aditya Bhargava",
+        "description": "An incredibly unique, visually engaging, and fully illustrated guide that simplifies complex programming concepts. It uses fully logical animations and real-world scenarios to explain search, sorting, and graph structures.",
+        "available_quantity": 6,
+        "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b26",
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "description": "Universally known as the definitive bible of algorithmic computer science. It provides a highly rigorous, exceptionally comprehensive, and detailed blueprint of data structures, algorithms, and technical mathematical analyses.",
+        "available_quantity": 3,
+        "image_url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b29",
+        "title": "Head First Design Patterns",
+        "author": "Eric Freeman & Elisabeth Robson",
+        "description": "A highly performance-optimized, visually rich learning strategy designed to teach functional software design patterns. It helps developers write highly reusable, flexible, and fully decoupled object-oriented applications.",
+        "available_quantity": 5,
+        "image_url": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b32",
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "description": "One of the most comprehensive practical guides to software construction ever published. It synthesizes the most effective modern techniques and industry principles into clear, pragmatic engineering guidance.",
+        "available_quantity": 2,
+        "image_url": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&q=80&w=600"
+      },
+
+      {
+        "id": "b3",
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "description": "A legendary, classic, and absolutely monumental volume in popular science writing that has continuously fascinated and inspired millions of eager readers across the entire globe.\nMasterfully and elegantly written by one of the greatest, most brilliant, and universally revered theoretical physicists and cosmologists of our modern generation.\nIt brilliantly explores the profound, mind-bending, and highly complex mysteries of cosmic space, multi-dimensional time, gravity, and the fundamental laws governing the universe.\nGeneral readers can effortlessly learn about the intricate physics of massive black holes, general relativity, quantum mechanics, and the ultimate nature of cosmic reality.\nIt explains the highly complex origins, evolution, and future destiny of our incredibly vast, beautifully ordered, and continuously expanding physical universe.",
+        "available_quantity": 3,
+        "image_url": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b6",
+        "title": "Cosmos",
+        "author": "Carl Sagan",
+        "description": "The metaphorical cosmic ocean represents an incredibly vast, breathtaking, and thoroughly modern scientific exploration into the deepest corners of outer space and time.\nThis legendary, timeless book beautifully and seamlessly intertwines cutting-edge astrophysical science with deep, thoughtful, and highly moving human philosophy.\nIt masterfully spans across millions of years of ancient history, biological evolution, and anthropological development to help us truly comprehend our cosmic heritage.\nReaders will discover the awe-inspiring wonders of distant galaxies, glowing nebulae, massive stars, and planetary systems from an entirely fresh, poetic perspective.\nIt perfectly and movingly explains our microscopic yet profoundly unique and significant place within the grand, infinite scale of the majestic cosmic wilderness.",
+        "available_quantity": 6,
+        "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b9",
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "description": "A truly classic, foundational, and completely revolutionary work that goes deeply into the core mechanisms of modern evolutionary biology and genetics theory.\nIt brilliantly and radically shifts the primary focus of biological evolution away from the individual organism or species directly onto the replication of genes.\nIt completely transforms and challenges how we traditionally view natural selection, the roots of altruism, social cooperation, and complex animal behaviors.\nThe author explains exceptionally dense and complex evolutionary concepts through remarkably clear, immensely engaging, and flawlessly logical scientific prose.\nAn absolute eye-opening, thought-provoking masterpiece that completely reshapes and reframes our entire understanding of the history of life, nature, and humanity.",
+        "available_quantity": 5,
+        "image_url": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b12",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "description": "An exceptional, deeply thought-provoking, and globally acclaimed historic assessment focusing intricately on the vast timeline of human evolutionary progress.\nIt details with incredible precision exactly how an insignificant, prehistoric ape species like Homo sapiens eventually rose to absolutely dominate planet Earth.\nThe book dives immensely deep into the profound impacts of the Cognitive, Agricultural, and Scientific Revolutions that occurred throughout human history.\nIt seamlessly and beautifully explores the fascinating, complex intersections of ancient human biology, historical anthropology, and modern economic science.\nA captivating, brilliant, and sweeping narrative that masterfully covers our entire species' remarkable journey from ancient caves to modern space exploration.",
+        "available_quantity": 10,
+        "image_url": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b15",
+        "title": "Astrophysics for People in a Hurry",
+        "author": "Neil deGrasse Tyson",
+        "description": "A brilliant, witty, and perfectly summarized introduction to the cosmos. It breaks down massive universal questions about quantum mechanics, black holes, the Big Bang, and the fundamental laws of space into digestible insights.",
+        "available_quantity": 7,
+        "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b18",
+        "title": "The Gene: An Intimate History",
+        "author": "Siddhartha Mukherjee",
+        "description": "A magnificent, sweeping, and deeply personal biography of the human genome. It combines rigid history, scientific breakthroughs, and philosophical ethics to tell the story of the fundamental unit of heredity and life.",
+        "available_quantity": 5,
+        "image_url": "https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b21",
+        "title": "Reality Is Not What It Seems",
+        "author": "Carlo Rovelli",
+        "description": "A deeply poetic and mind-expanding journey into the heart of quantum gravity. It tracks the evolution of physics from ancient philosophers to modern string theories, showing a universe made of relations rather than objects.",
+        "available_quantity": 9,
+        "image_url": "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b24",
+        "title": "Silent Spring",
+        "author": "Rachel Carson",
+        "description": "The monumental volume that effectively launched the global environmental movement. It brilliantly exposes the devastating, long-term ecological damage caused by indiscriminate chemical pesticide contamination in our ecosystem.",
+        "available_quantity": 5,
+        "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b27",
+        "title": "Superintelligence",
+        "author": "Nick Bostrom",
+        "description": "A profoundly analytical, deeply researched, and gripping assessment of the systemic risks associated with advanced artificial general intelligence, exploring what happens when machine systems surpass human capabilities.",
+        "available_quantity": 8,
+        "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b30",
+        "title": "The Elegant Universe",
+        "author": "Brian Greene",
+        "description": "A masterfully clear, deeply engaging, and illuminating introduction to superstring theory and quantum mechanics, peeling back the hidden dimensional structures that compose the ultimate foundation of cosmic space.",
+        "available_quantity": 4,
+        "image_url": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?auto=format&fit=crop&q=80&w=600"
       }
     ]
   },
