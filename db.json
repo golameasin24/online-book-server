@@ -92,6 +92,100 @@
       }
     ]
   },
+
+  "00": {
+    "category_name": "All Category",
+    "books": [
+      {
+        "id": "b1",
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "description": "Between the edge of life and the absolute finality of death, there exists an extraordinary, infinite library standing beyond the constraints of human time and space.\nWithin this mystical and endless repository of human fate, the towering shelves go on forever, filled with millions of complex books waiting to be opened and read.\nEvery single volume in this magical collection provides an unparalleled, distinct chance to experience a completely different version of another alternative life you could have lived.\nYou now have the miraculous power to thoroughly rewrite your entire past decisions, test paths not taken, and fully explore the painful choices you once deeply regretted.\nIt delivers an incredibly profound, emotional, and breathtaking narrative journey that beautifully challenges our deep perceptions and masterfully explores the true meaning of existence.",
+        "available_quantity": 5,
+        "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b4",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "description": "An adventurous, courageous, and deeply determined Andalusian shepherd boy named Santiago decides to travel far across uncharted lands with his loyal flock of sheep.\nHe bravely embarks on a long journey away from his comfortable, familiar homeland located within the breathtaking, rolling green fields of beautiful southern Spain.\nHe resolutely walks through the dangerous, scorching, and vast expanses of the Egyptian desert with an unyielding hope burning brightly inside his passionate heart.\nHis ultimate life-defining goal is searching for a mysterious, promised worldly treasure that is allegedly buried deep beneath the ancient and majestic Pyramids.\nIt is an incredibly inspiring, allegorical, and deeply transformative story about learning to listen to your inner heart and relentlessly pursuing your Personal Legend.",
+        "available_quantity": 12,
+        "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b7",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "This is an extraordinarily gripping, deeply emotional, and heart-wrenching classic of modern American literature that has left an indelible mark on readers for decades.\nIt masterfully narrates a wholly remarkable, unforgettable, and deeply poignant tale focusing on childhood innocence, moral growth, and the journey of coming-of-age.\nThe entire dramatic narrative unfolds within a small, quiet Southern town that is deeply fractured and poisoned by ancient social hierarchies and rigid traditions.\nIt fearlessly, honestly, and brilliantly explores the devastating human consequences of virulent racial prejudice, systemic bias, and institutionalized court injustice.\nA timeless, highly powerful, and universally essential literary masterpiece focused entirely on personal honor, legal justice, and ultimate, unconditional human compassion.",
+        "available_quantity": 7,
+        "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b10",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "Widely considered the most exemplary, definitive, and iconic novel representing the wildly glamorous yet deeply flawed American Jazz Age era of history.\nIt flawlessly and vividly captures the immense, unprecedented wealth, extravagant mansion parties, and superficial glamour of early twentieth-century New York high society.\nIt intimately explores themes of deep romantic obsession, reckless betrayal, structural class divides, and ultimate human tragedy mixed together into a beautiful story.\nThe gripping, poetic narrative follows the mysterious multi-millionaire Jay Gatsby's intense, desperate, and ultimately fatal personal pursuit of his past love, Daisy.\nA timeless, brilliant, and hauntingly beautiful literary critique focused entirely on the fragile illusions and decay of the elusive American Dream.",
+        "available_quantity": 9,
+        "image_url": "https://images.unsplash.com/photo-1495640388908-05fa85288e61?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b13",
+        "title": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zafón",
+        "description": "An antiquarian book dealer's son is taken to the secret Cemetery of Forgotten Books in Barcelona, where he adopts a mysterious novel that pulls him into a dark, multi-generational web of romance, murder, and forbidden secrets.",
+        "available_quantity": 4,
+        "image_url": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b16",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "description": "Set during the harrowing times of World War II Germany, this beautifully tragic story is uniquely narrated by Death itself, tracking a young girl named Liesel who finds solace and survival by stealing books and sharing them with others.",
+        "available_quantity": 6,
+        "image_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b19",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "description": "A stunning, atmospheric mystery that follows a lonely girl raising herself in the wild marshes of North Carolina. When a handsome local young man is found dead, the isolated marsh girl becomes the town's prime suspect.",
+        "available_quantity": 8,
+        "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b22",
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "A chillingly prophetic, legendary dystopian narrative that explores totalitarian surveillance, absolute party power, and the systematically violent erasure of individual freedom, truth, and psychological independence.",
+        "available_quantity": 14,
+        "image_url": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b25",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "description": "A highly emotional, unforgettable, and powerful story of friendship, betrayal, and ultimate redemption set against the tragic backdrop of Afghanistan's collapse from a peaceful monarchy to a war-torn regime.",
+        "available_quantity": 7,
+        "image_url": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b28",
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "description": "An incredibly imaginative, deeply spiritual, and miraculous adventure tale of a young boy shipwrecked in the middle of the Pacific Ocean, stranded on a lifeboat with a massive Royal Bengal tiger.",
+        "available_quantity": 10,
+        "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": "b31",
+        "title": "The Ocean at the End of the Lane",
+        "author": "Neil Gaiman",
+        "description": "A deeply atmospheric, dark, and beautifully nostalgic modern fantasy tale about memory, childhood terrors, and ancient, forgotten magic hidden at the edge of a quiet English countryside farm.",
+        "available_quantity": 6,
+        "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  },
   "02": {
     "category_name": "Tech",
     "books": [
